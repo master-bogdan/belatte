@@ -1,3 +1,6 @@
 # BeLatte-project
-Simple coffee shop static page
-<p>Pure HTML5 + CSS3
+#### Static page for psd layout
+Technologies:
+- HTML5
+- CSS3
+- Not fuly Responsive
